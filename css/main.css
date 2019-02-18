@@ -1,0 +1,39 @@
+body {
+  background-color: #e5ece5;
+  color: darkgrey;
+}
+
+/* #movie-list {
+
+
+} */
+
+li {
+  list-style: none;
+}
+
+.new-movie-list {
+  color: darkslategrey;
+  border-radius: 20px;
+  border: solid;
+  padding: 3px;
+  width: 200px;
+  border-style: none;
+}
+
+.movie-list-items {
+  color: black;
+  background-color: beige;
+  border-width: 50px;
+  border-radius: 20px;
+  padding: 5px;
+}
+
+h2 {
+  color: black;
+  font-family: monospace;
+}
+
+h3 {
+  color: darkcyan;
+}
